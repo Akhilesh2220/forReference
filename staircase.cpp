@@ -15,3 +15,8 @@ int main(){
 	int n; cin>>n;
 	staircase(n);	
 }
+//    #
+//   ##
+//  ###
+// ####
+//#####
